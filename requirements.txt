@@ -1,0 +1,10 @@
+tensorflow
+matplotlib
+numpy
+tqdm
+pillow
+re
+os
+pickle
+pydot
+graphviz
